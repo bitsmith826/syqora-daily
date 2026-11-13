@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Syqora sensitive user data (BLOKIR SEMUA DATA KECUALI CONTOH .EXAMPLE)
+data/*
+!data/*.example.txt
+!data/.gitkeep
+
+# Redundant safety for sensitive files
+*.json
+*.tmp
+*.log
+.env
+.env.*
+
+# Local virtual environment
+venv/
+env/
+ENV/
+
+# Playwright & Camoufox caches
+.playwright/
+.camoufox/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini

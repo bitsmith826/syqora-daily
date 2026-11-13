@@ -1,0 +1,4 @@
+# Format: email|password|evm_address
+# Contoh (Ganti dengan akun Anda):
+user1@gmail.com|StrongPass123!|0x71C836057a66160A4b61B10C240E87F616D1e988
+user2@gmail.com|StrongPass123!|0x2546BcD3c84621e976D8185a91A922aE77ECEc30
